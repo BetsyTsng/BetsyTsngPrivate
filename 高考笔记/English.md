@@ -8,3 +8,5 @@ hold - held(not "holded")
 # Vocabularies
 
 decent
+
+availability
