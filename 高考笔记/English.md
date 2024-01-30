@@ -10,3 +10,5 @@ hold - held(not "holded")
 decent
 
 availability
+
+purse
