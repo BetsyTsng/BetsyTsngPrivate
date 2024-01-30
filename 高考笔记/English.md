@@ -12,3 +12,5 @@ decent
 availability
 
 purse
+
+interviewee - interviewer
